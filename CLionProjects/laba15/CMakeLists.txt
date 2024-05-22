@@ -10,4 +10,5 @@ add_executable(laba15 main.c
         libs/data_structures/matrix/matrix.c
         libs/data_structures/matrix/matrix.h
         libs/data_structures/matrix/matrix.h
-        libs/data_structures/matrix/test.matrix.c)
+        libs/data_structures/matrix/test.matrix.c
+        libs/data_structures/matrix/test.matrix.c.h)

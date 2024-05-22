@@ -1,6 +1,9 @@
 # ninja log v5
-52	439	7380637296730021	CMakeFiles/laba15.dir/libs/data_structures/matrix/matrix.c.obj	ad9afdf432308817
-4	459	7380637296899563	CMakeFiles/laba15.dir/main.c.obj	cc079b0170a24a24
+42	485	7380689480787647	CMakeFiles/laba15.dir/libs/data_structures/matrix/matrix.c.obj	ad9afdf432308817
+5	430	7380689480239111	CMakeFiles/laba15.dir/main.c.obj	cc079b0170a24a24
 43	484	7380637297178811	CMakeFiles/laba15.dir/libs/algorithms/array/array.c.obj	53af185fedcb439c
 48	498	7380637297318439	CMakeFiles/laba15.dir/libs/algorithms/array/unordered_array_set.c.obj	a0512e4d5f7b778e
 498	694	7380637299253261	laba15.exe	f3aee05a9ef570ed
+46	491	7380689480847482	CMakeFiles/laba15.dir/libs/data_structures/matrix/test.matrix.c.obj	674e45421a1aed2
+5	457	7380698349062695	CMakeFiles/laba15.dir/main.c.obj	cc079b0170a24a24
+44	491	7380698349401784	CMakeFiles/laba15.dir/libs/data_structures/matrix/test.matrix.c.obj	674e45421a1aed2
